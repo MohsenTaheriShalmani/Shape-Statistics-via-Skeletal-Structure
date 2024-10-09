@@ -46,6 +46,7 @@ If you reference this work, please use the following citation:
   title={Shape Statistics via Skeletal Structures},
   author={Taheri, Mohsen},
   year={2024},
-  publisher={University of Stavanger, Norway}
+  publisher={University of Stavanger, Norway},
+  url={https://uis.brage.unit.no/uis-xmlui/handle/11250/3133161}
 }
 ```
