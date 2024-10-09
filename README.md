@@ -15,6 +15,19 @@ The presentation summarizes key contributions from my research, including:
 - **Paper II**: *Fitting the Discrete Swept Skeletal Representation to Slabular Objects*
 - **Paper III**: *The Mean Shape under the Relative Curvature Condition*
 
+For more details, you can access the full thesis here:  
+[Shape Statistics via Skeletal Structures - PhD Thesis](https://uis.brage.unit.no/uis-xmlui/handle/11250/3133161)
+
+## Citation:
+If you reference this work, please use the following citation:
+```
+@article{taheri2024shape,
+  title={Shape Statistics via Skeletal Structures},
+  author={Taheri, Mohsen},
+  year={2024},
+  publisher={University of Stavanger, Norway}
+}
+
 ## Key Topics:
 - Statistical shape analysis and its medical applications
 - Skeletal-based shape representations
