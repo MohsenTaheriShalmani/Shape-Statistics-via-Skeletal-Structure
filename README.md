@@ -33,9 +33,10 @@ This presentation provides a comprehensive overview of the techniques and models
 ## Acknowledgments:
 Special thanks to my supervisors, collaborators, and institutions, including the University of Stavanger, SUS, NKB, ParkWest, UNC, and BMDLab.
 
-## [*Presentation link*](https://github.com/MohsenTaheriShalmani/Shape-Statistics-via-Skeletal-Structure/blob/main/Mohsen_Taheri_Shalmani_PhD_Defense_Presentation.pdf)
+## View and download the presentation here:
+[Presentation link](https://github.com/MohsenTaheriShalmani/Shape-Statistics-via-Skeletal-Structure/blob/main/Mohsen_Taheri_Shalmani_PhD_Defense_Presentation.pdf)
 
-### For more details, you can access the full thesis here:  
+## For more details, you can access the full thesis via this link:  
 [Shape Statistics via Skeletal Structures - PhD Thesis](https://uis.brage.unit.no/uis-xmlui/handle/11250/3133161)
 
 ## Citation:
