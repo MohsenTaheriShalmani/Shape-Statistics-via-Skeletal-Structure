@@ -20,6 +20,7 @@ The presentation summarizes key contributions from my research, including:
 - Skeletal-based shape representations
 - Slabular objects (SlOs) and elliptical slabular objects (E-SlOs)
 - Discrete skeletal representation (DSRep) and Locally Parameterized DSRep (LPDSRep)
+- Discrete swept skeletal representation (DSSRep) and Locally Parameterized DSSRep (LPDSSRep)
 - Mean shape computation under the Relative Curvature Condition (RCC)
 - Elliptical Tube Representation (ETRep)
 
