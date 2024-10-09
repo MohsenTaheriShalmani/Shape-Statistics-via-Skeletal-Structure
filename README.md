@@ -7,7 +7,7 @@ This repository contains the PhD defense presentation for "Shape Statistics via 
 **Shape Statistics via Skeletal Structures**
 
 ## Description:
-This repository contains the PDF version of my PhD defense presentation, given on **June 24, 2024**, at the University of Stavanger (UiS). My thesis, titled *"Shape Statistics via Skeletal Structures,"* explores statistical shape analysis using skeletally-based shape representations, with applications primarily focused on medical imaging and slabular objects.
+This repository contains the PDF version of my PhD defense presentation, given on June 24, 2024, at the University of Stavanger (UiS). My thesis, titled *"Shape Statistics via Skeletal Structures,"* explores statistical shape analysis using skeletally-based shape representations, with applications primarily focused on medical imaging and slabular objects.
 
 The presentation summarizes key contributions from my research, including:
 
