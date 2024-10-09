@@ -17,19 +17,6 @@ https://doi.org/10.48550/arXiv.2409.04079)
 - **Paper III**: [*The Mean Shape under the Relative Curvature Condition*](
 https://doi.org/10.48550/arXiv.2404.01043)
 
-For more details, you can access the full thesis here:  
-[Shape Statistics via Skeletal Structures - PhD Thesis](https://uis.brage.unit.no/uis-xmlui/handle/11250/3133161)
-
-## Citation:
-If you reference this work, please use the following citation:
-```
-@article{taheri2024shape,
-  title={Shape Statistics via Skeletal Structures},
-  author={Taheri, Mohsen},
-  year={2024},
-  publisher={University of Stavanger, Norway}
-}
-```
 
 ## Key Topics:
 - Statistical shape analysis and its medical applications
@@ -44,4 +31,18 @@ If you reference this work, please use the following citation:
 This presentation provides a comprehensive overview of the techniques and models I developed for skeletal shape analysis, with applications in medical imaging, particularly the analysis of structures like the hippocampus. It is intended for researchers and students in the fields of shape analysis, medical image analysis, and applied mathematics.
 
 ## Acknowledgments:
-Special thanks to my supervisors, collaborators, and funding institutions, including the University of Stavanger, SUS, NKB, ParkWest, UNC, and BMDLab.
+Special thanks to my supervisors, collaborators, and institutions, including the University of Stavanger, SUS, NKB, ParkWest, UNC, and BMDLab.
+
+For more details, you can access the full thesis here:  
+[Shape Statistics via Skeletal Structures - PhD Thesis](https://uis.brage.unit.no/uis-xmlui/handle/11250/3133161)
+
+## Citation:
+If you reference this work, please use the following citation:
+```
+@article{taheri2024shape,
+  title={Shape Statistics via Skeletal Structures},
+  author={Taheri, Mohsen},
+  year={2024},
+  publisher={University of Stavanger, Norway}
+}
+```
