@@ -27,6 +27,7 @@ If you reference this work, please use the following citation:
   year={2024},
   publisher={University of Stavanger, Norway}
 }
+```
 
 ## Key Topics:
 - Statistical shape analysis and its medical applications
