@@ -1,2 +1,30 @@
 # Shape-Statistics-via-Skeletal-Structure
 This repository contains the PhD defense presentation for "Shape Statistics via Skeletal Structures." It covers statistical shape analysis using skeletal representations, with applications in medical imaging and biological structures like the hippocampus.
+
+# PhD Defense Presentation - Mohsen Taheri Shalmani
+
+## Title: 
+**Shape Statistics via Skeletal Structures**
+
+## Description:
+This repository contains the PDF version of my PhD defense presentation, given on **June 24, 2024**, at the University of Stavanger (UiS). My thesis, titled *"Shape Statistics via Skeletal Structures,"* explores statistical shape analysis using skeletally-based shape representations, with applications primarily focused on medical imaging and slabular objects.
+
+The presentation summarizes key contributions from my research, including:
+
+- **Paper I**: *Statistical Analysis of Locally Parameterized Shapes*
+- **Paper II**: *Fitting the Discrete Swept Skeletal Representation to Slabular Objects*
+- **Paper III**: *The Mean Shape under the Relative Curvature Condition*
+
+## Key Topics:
+- Statistical shape analysis and its medical applications
+- Skeletal-based shape representations
+- Slabular objects (SlOs) and elliptical slabular objects (E-SlOs)
+- Discrete skeletal representation (DSRep) and Locally Parameterized DSRep (LPDSRep)
+- Mean shape computation under the Relative Curvature Condition (RCC)
+- Elliptical Tube Representation (ETRep)
+
+## Usage:
+This presentation provides a comprehensive overview of the techniques and models I developed for skeletal shape analysis, with applications in medical imaging, particularly the analysis of structures like the hippocampus. It is intended for researchers and students in the fields of shape analysis, medical image analysis, and applied mathematics.
+
+## Acknowledgments:
+Special thanks to my supervisors, collaborators, and funding institutions, including the University of Stavanger, SUS, NKB, ParkWest, UNC, and BMDLab.
