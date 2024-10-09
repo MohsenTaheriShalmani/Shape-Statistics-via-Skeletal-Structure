@@ -11,8 +11,7 @@ This repository contains the PDF version of my PhD defense presentation, given o
 
 The presentation summarizes key contributions from my research, including:
 
-- **Paper I**: *Statistical Analysis of Locally Parameterized Shapes*
-- [Paper I](https://doi.org/10.1080/10618600.2022.2116445)
+- **Paper I**: [*Statistical Analysis of Locally Parameterized Shapes*](https://doi.org/10.1080/10618600.2022.2116445)
 - **Paper II**: *Fitting the Discrete Swept Skeletal Representation to Slabular Objects*
 - [Paper II](
 https://doi.org/10.48550/arXiv.2409.04079)
