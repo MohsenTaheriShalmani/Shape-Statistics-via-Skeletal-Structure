@@ -1,7 +1,7 @@
 # Shape-Statistics-via-Skeletal-Structure
 This repository contains the PhD defense presentation for "Shape Statistics via Skeletal Structures." It covers statistical shape analysis using skeletal representations, with applications in medical imaging and biological structures like the hippocampus.
 
-# [*PhD Defense Presentation* - Mohsen Taheri Shalmani](https://github.com/MohsenTaheriShalmani/Shape-Statistics-via-Skeletal-Structure/blob/main/Mohsen_Taheri_Shalmani_PhD_Defense_Presentation.pdf)
+# Mohsen Taheri Shalmani [*PhD Defense Presentation*](https://github.com/MohsenTaheriShalmani/Shape-Statistics-via-Skeletal-Structure/blob/main/Mohsen_Taheri_Shalmani_PhD_Defense_Presentation.pdf)
 
 ## Title: 
 **Shape Statistics via Skeletal Structures**
