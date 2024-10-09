@@ -12,8 +12,13 @@ This repository contains the PDF version of my PhD defense presentation, given o
 The presentation summarizes key contributions from my research, including:
 
 - **Paper I**: *Statistical Analysis of Locally Parameterized Shapes*
+- [Paper I](https://doi.org/10.1080/10618600.2022.2116445)
 - **Paper II**: *Fitting the Discrete Swept Skeletal Representation to Slabular Objects*
+- [Paper II](
+https://doi.org/10.48550/arXiv.2409.04079)
 - **Paper III**: *The Mean Shape under the Relative Curvature Condition*
+- [Paper III](
+https://doi.org/10.48550/arXiv.2404.01043)
 
 For more details, you can access the full thesis here:  
 [Shape Statistics via Skeletal Structures - PhD Thesis](https://uis.brage.unit.no/uis-xmlui/handle/11250/3133161)
